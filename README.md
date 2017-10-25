@@ -8,7 +8,7 @@ script also requires [Pandas](https://github.com/pandas-dev/pandas).
 ## Usage
 * Configure spreadsheet so that the desired URL's are in the THIRD column.
 * Save .csv in a known location.
-* Run the script (Run '''python OrphanSlayer.py''' if running from the command line).
+* Run the script (Run 'python OrphanSlayer.py' if running from the command line).
 * When prompted, enter the absolute path where the .csv file is located. Click Enter.
 * When prompted, enter the name of the .csv file, including the ".csv". Click Enter.
 * The first webpage associated with the first URL in the spreadsheet will open in the default browser. 
